@@ -39,7 +39,7 @@ A GNOME Shell extension that adds a 💤 Sleep icon to the top bar. Clicking the
 ## 🛠️ Requirements
 
 - 🖥️ GNOME Shell version 42 or higher.
-- ⚙️ `systemctl` command for suspend functionality.
+- ⚙️ `ft_lock` command for suspend functionality.
 
 ## 📜 License
 
