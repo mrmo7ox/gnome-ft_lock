@@ -1,0 +1,7 @@
+{
+    "uuid": "topbar-icon@mrmo7ox",
+    "name": "TopBar Icon",
+    "description": "Adds an icon to the top bar that executes a command when clicked.",
+    "version": 1,
+    "shell-version": ["42", "44", "45"]
+  }

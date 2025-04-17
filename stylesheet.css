@@ -1,0 +1,11 @@
+.topbar-icon {
+    width: 20px;
+    height: auto;
+    margin: 2px 5px;
+    color: rgb(255, 47, 47);
+    border-radius: 5px;
+    background-color: #ffffff00; 
+}
+.topbar-icon:hover {
+    background-color: #ffffff00; 
+}
