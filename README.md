@@ -11,12 +11,15 @@ A GNOME Shell extension that adds a 💤 Sleep icon to the top bar. Clicking the
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mrmo7ox/gnome-sleep-icon.git
+   git clone https://github.com/mrmo7ox/gnome-ft_lock.git
    ```
 
 2. Copy the extension directory to GNOME Shell's extensions folder:
    ```bash
-   cp -r gnome-sleep-icon ~/.local/share/gnome-shell/extensions/topbar-icon@mrmo7ox
+   mkdir -p ~/.local/share/gnome-shell/extensions/
+   ```
+   ```bash
+   cp -r gnome-ft_lock ~/.local/share/gnome-shell/extensions/topbar-icon@mrmo7ox
    ```
 
 3. Enable the extension:
