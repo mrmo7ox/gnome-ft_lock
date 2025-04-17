@@ -41,8 +41,3 @@ A GNOME Shell extension that adds a 💤 Sleep icon to the top bar. Clicking the
 - 🖥️ GNOME Shell version 42 or higher.
 - ⚙️ `ft_lock` command for suspend functionality.
 
-## 📜 License
-
-This project is licensed under the MIT License.
-
-
